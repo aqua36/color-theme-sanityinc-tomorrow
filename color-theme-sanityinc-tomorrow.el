@@ -90,7 +90,7 @@ executed."
             (aqua . "#3e999f")
             (blue . "#4271ae")
             (purple . "#8959a8")))
-    (eighties . ((background . "#2d2d2d")
+    (eighties . ((background . "#333333")
                  (alt-background . "#333333333333")
                  (current-line . "#393939")
                  (selection . "#515151")
